@@ -1,0 +1,60 @@
+#################################################################################
+
+Number of Planck time units in 1 second of normal time:
+
+	(bytes): 44
+	(scientific): 1.855e+43
+	(decimal): 18,550,000,000,000,000,685,624,590,513,169,348,727,668,736
+
+Dictionary Number Name for decimal value: Tredecillion
+
+#################################################################################
+
+Number of Planck time units in 1 Millisecond (1 ms) of normal time:
+
+	(bytes): 41
+	(scientific): 1.855e+40
+	(decimal): 18,550,000,000,000,000,762,995,842,968,505,615,908,864
+
+Dictionary Number Name for decimal value: Duodecillion
+
+#################################################################################
+
+Pebibytes of memory required to analyze all Planck time units (1 x Second):
+
+Pebibytes Scientific: 1.6475739e+28
+Pebibytes Decimal: 16,475,738,999,999,998,995,466,289,152
+
+Dictionary Number Name for decimal value: Octillion
+
+#################################################################################
+
+Pebibytes of memory required to analyze all Planck time units (1 x ms):
+
+Pebibytes Scientific: 1.6475739e+25
+Pebibytes Decimal: 16,475,739,000,000,000,661,913,600
+
+Dictionary Number Name for decimal value: Septillion
+
+#################################################################################
+
+Pebibytes of memory to compare 2 ms in Planck time units (1 x ms)^(1 x ms):
+
+Pebibytes Scientific: 1.6475739e+25^1.6475739e+25
+Pebibytes Decimal: 16475739000000000661913600^16475739000000000661913600
+
+#################################################################################
+
+Cluster of 8GB RAM laptops required to compare (1 x ms)^(1 x ms):
+
+Scientific: (1.6475739e+25^1.6475739e+25) / 7.1054e-06
+Decimal: (16475739000000000661913600^16475739000000000661913600) / 0.0000071054
+
+#################################################################################
+
+Cluster of 24GB RAM servers required to compare (1 x ms)^(1 x ms):
+
+Scientific: (1.6475739e+25^1.6475739e+25) / 2.1316e-05
+Decimal: (16475739000000000661913600^16475739000000000661913600) / 0.0000213160
+
+#################################################################################
